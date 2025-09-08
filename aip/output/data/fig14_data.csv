@@ -1,0 +1,5 @@
+model,param1,value
+RSA,alpha,2.0
+RSA,lambda,0.25
+AIF,beta,0.5
+AIF,len_cost,0.25
