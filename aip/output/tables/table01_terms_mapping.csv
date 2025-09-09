@@ -1,7 +1,0 @@
-EFE_term,RSA_term,Notes
-risk (expected cost),utility (−cost),Sign alignment: cost vs utility
-ambiguity (expected entropy),uncertainty penalty,Preference for informative utterances
-−information gain (−IG),exploration bonus (with sign),A1 nearsighted sets IG≈0
-β (temperature),α=1/β (rationality),Softmax/Gibbs normalization
-L0 (literal listener),"probabilistic, continuous semantics",Calibrated/shared semantics (A5)
-"Regularity (σ-finite, normalization)",finite candidate set,Assumption A6
